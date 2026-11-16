@@ -116,6 +116,23 @@ chmod 600 ~/.ssh/authorized_keys
 java -version
 ```
 
+## Deployment Screenshots
+
+### 1. DigitalOcean Droplet
+DigitalOcean cloud infrastructure hosting the Ubuntu server.
+
+![DigitalOcean Droplet](screenshots/01-digitalocean-droplet.png)
+
+### 2. Linux Server Configuration
+Ubuntu server configuration, user management, and Java environment.
+
+![Linux Server Configuration](screenshots/02-linux-configuration.png)
+
+### 3. Running Java Application
+Java application successfully deployed and accessible through the browser.
+
+![Running Java Application](screenshots/03-running-application.png)
+
 ## Key Learnings
 
 Through this project, I gained practical experience in:
